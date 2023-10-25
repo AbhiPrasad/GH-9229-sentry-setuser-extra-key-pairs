@@ -1,0 +1,14 @@
+{
+  "name": "sentry-setuser-extra-key-pairs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Abhijeet Prasad <aprasad@sentry.io>",
+  "license": "MIT",
+  "dependencies": {
+    "@sentry/browser": "^7.75.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.1",
+    "process": "^0.11.10"
+  }
+}
